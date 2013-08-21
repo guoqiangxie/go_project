@@ -4,7 +4,7 @@
     <list default="true" id="7fc71a3c-17ec-4137-bd33-edff13582575" name="Default" comment="" />
     <ignored path="go_project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/main.go" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1377072622383" ignored="false" />
+    <file path="/main.go" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1377074347603" ignored="false" />
     <file path="F:/svn-projects/PLATFORM-DEV/DEV/trunk/erp-core/erp-uc-core/src/main/java/com/chinadrtv/erp/uc/service/impl/PhoneServiceImpl.java" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1377053526344" ignored="false" />
     <file path="F:/svn-projects/PLATFORM-DEV/DEV/trunk/erp-sys/erp-sales/src/main/webapp/static/js/itemrecommend.js" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1376989024403" ignored="false" />
     <file path="F:/svn-projects/PLATFORM-DEV/DEV/trunk/erp-user/security/src/main/java/com/chinadrtv/erp/user/service/impl/UserServiceLdapImpl.java" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1376989024403" ignored="false" />
@@ -19,6 +19,7 @@
     <file path="/second.go" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1377072333542" ignored="false" />
     <file path="/third.go" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1377072394445" ignored="false" />
     <file path="/fourth.go" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1377073094831" ignored="false" />
+    <file path="/five.go" changelist="7fc71a3c-17ec-4137-bd33-edff13582575" time="1377074325877" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,10 +100,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="19" selection-start="247" selection-end="247" vertical-scroll-proportion="0.28391168">
+            <state line="26" column="25" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,7 +112,16 @@
       <file leaf-file-name="fourth.go" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/acorn/fourth.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="28" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+            <state line="45" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fifth.go" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/acorn/fifth.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="26" selection-start="390" selection-end="390" vertical-scroll-proportion="0.44514108">
               <folding />
             </state>
           </provider>
@@ -139,8 +149,10 @@
         <option value="$PROJECT_DIR$/src/com/acorn/first.go" />
         <option value="$PROJECT_DIR$/src/com/acorn/second.go" />
         <option value="$PROJECT_DIR$/src/com/acorn/third.go" />
-        <option value="$PROJECT_DIR$/src/main.go" />
         <option value="$PROJECT_DIR$/src/com/acorn/fourth.go" />
+        <option value="$PROJECT_DIR$/src/com/acorn/five.go" />
+        <option value="$PROJECT_DIR$/src/com/acorn/fifth.go" />
+        <option value="$PROJECT_DIR$/src/main.go" />
       </list>
     </option>
   </component>
@@ -399,7 +411,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -419,8 +431,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2530675" sideWeight="0.6067019" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39329806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2530675" sideWeight="0.61022925" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38977072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -488,13 +500,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="3" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
@@ -588,14 +593,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/acorn/fourth.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="28" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+        <state line="45" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="19" selection-start="247" selection-end="247" vertical-scroll-proportion="0.28391168">
+        <state line="26" column="25" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/acorn/fifth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="26" selection-start="390" selection-end="390" vertical-scroll-proportion="0.44514108">
           <folding />
         </state>
       </provider>

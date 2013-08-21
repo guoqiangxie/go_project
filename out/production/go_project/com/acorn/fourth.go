@@ -32,13 +32,13 @@ func ArrayProcess() {
 	}
 	fmt.Println("2d: ", c)
 
-	d := b[2:4]
+	d := b[2:4] //下标大于等于2小于4
 	fmt.Println("d:=b[2:4]:", d)
 
-	e := b[:4]
+	e := b[:4] //下标小于4
 	fmt.Println("d:=b[:4]:", e)
 
-	f := b[2:]
+	f := b[2:] //下标大于等于2
 	fmt.Println("d:=b[2:]:", f)
 	fmt.Println("--------------fourth method end-----------")
 }
